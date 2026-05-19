@@ -1,16 +1,67 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Jems18Music/jems18music** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🎵 Jems18 Música
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=FF0000&center=true&vCenter=true&width=700&lines=Artista+Musical;Productor+Independiente;Nuevos+Estrenos+%F0%9F%94%A5" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 Música • Creatividad • Flow • Proyectos
+
+<img src="https://komarev.com/ghpvc/?username=jems18music&label=Visitas&color=red&style=for-the-badge" />
+
+</div>
+
+---
+
+# 🚀 Sobre mí
+
+🎤 Artista musical independiente  
+🎧 Productor y creador de contenido  
+🔥 Trabajando en nuevos lanzamientos y proyectos  
+📍 México  
+
+---
+
+# 📀 Próximo Estreno
+
+## 🎵 "Número 1"
+📅 Estreno oficial — **22 de Mayo**
+
+---
+
+# 🌐 Redes Sociales
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.com/)
+
+</div>
+
+---
+
+# 📊 Estadísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jems18music&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jems18music&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Frase
+
+> “La música convierte emociones en eternidad.”
+
+---
+
+<div align="center">
+
+## 💀 Jems18 Música 💀
+
+</div>
