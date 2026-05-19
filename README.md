@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PEGA_EL_LINK_AQUI" width="100%" />
+  <img src="https://raw.githubusercontent.com/Jems18Musica/jems18music/main/Snapshot.png" width="100%" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jems18Musica/jems18music/main/Snapshot.png" width="100%" />
