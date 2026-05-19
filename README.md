@@ -32,15 +32,23 @@
 
 # 🌐 Redes Sociales
 
+# 🌐 Redes Sociales
+
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.com/)
+[![Spotify](https://img.shields.io/badge/Spotify-Escuchar%20Ahora-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-es/artist/6GmGlyEROBmYlrOqFoMXsk?si=-LhIOaT9RFmJbp4Q64FX6A)
 
 </div>
 
 ---
+
+# 🎧 Escúchame en Spotify
+
+<div align="center">
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/intl-es/artist/6GmGlyEROBmYlrOqFoMXsk?si=-LhIOaT9RFmJbp4Q64FX6A)
+
+</div>
 
 # 📊 Estadísticas
 
