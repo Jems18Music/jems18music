@@ -1,6 +1,6 @@
-<p align="center">
+[<p align="center">
   <img src="https://raw.githubusercontent.com/Jems18Musica/jems18music/main/Snapshot.png">
-</p>
+</p>](https://raw.githubusercontent.com/Jems18Music/jems18music/main/Snapshot.PNG)
 
 # 🎵 Jems18 Música
 
