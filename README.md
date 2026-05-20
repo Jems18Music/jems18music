@@ -1,7 +1,6 @@
-[<p align="center">
-  <img src="https://raw.githubusercontent.com/Jems18Musica/jems18music/main/Snapshot.png">
-</p>](https://raw.githubusercontent.com/Jems18Music/jems18music/main/Snapshot.PNG)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jems18Music/jems18music/main/Snapshot.PNG" width="100%">
+</p>
 # 🎵 Jems18 Música
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=FF0000&center=true&vCenter=true&width=700&lines=Artista+Musical;Productor+Independiente;Nuevos+Estrenos+%F0%9F%94%A5" />
