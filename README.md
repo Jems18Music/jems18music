@@ -17,7 +17,7 @@
 
 # 🚀 Sobre mí
 
-🎤 Artista musical independiente  
+🎤 Sello Discografico independiente  
 🎧 Productor y creador de contenido  
 🔥 Trabajando en nuevos lanzamientos y proyectos  
 📍 México  
@@ -32,6 +32,7 @@
 ---
 
 # 🌐 Redes Sociales
+https://web.facebook.com/jems18Records
 
 # 🌐 Redes Sociales
 
